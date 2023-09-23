@@ -1,14 +1,12 @@
 <template>
-  <div id="app">
-    <span class="heima heima-toutiaogengduo"></span>
-  </div>
+	<div id="app">
+	</div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-}
+	name: "App",
+};
 </script>
 
 <style>
