@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4265748 */
+  src: url('iconfont.woff2?t=1695479969562') format('woff2'),
+       url('iconfont.woff?t=1695479969562') format('woff'),
+       url('iconfont.ttf?t=1695479969562') format('truetype');
+}
+
+.heima {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.heima-toutiaogengduo:before {
+  content: "\e601";
+}
+
+.heima-toutiaolishi:before {
+  content: "\e602";
+}
+
+.heima-toutiaoguanbi:before {
+  content: "\e603";
+}
+
+.heima-toutiaodianzan:before {
+  content: "\e604";
+}
+
+.heima-toutiaofenxiang:before {
+  content: "\e605";
+}
+
+.heima-toutiaopinglun:before {
+  content: "\e606";
+}
+
+.heima-toutiaoshanchu:before {
+  content: "\e607";
+}
+
+.heima-toutiaoshoucang:before {
+  content: "\e608";
+}
+
+.heima-toutiaodianzan2:before {
+  content: "\e609";
+}
+
+.heima-toutiaoshouye:before {
+  content: "\e60a";
+}
+
+.heima-toutiaoshouji:before {
+  content: "\e60b";
+}
+
+.heima-toutiaoyanzhengma:before {
+  content: "\e60c";
+}
+
+.heima-toutiaoyoujiantou:before {
+  content: "\e60d";
+}
+
+.heima-toutiaowode:before {
+  content: "\e60e";
+}
+
+.heima-toutiaoshipin:before {
+  content: "\e60f";
+}
+
+.heima-toutiaowuwangluo:before {
+  content: "\e610";
+}
+
+.heima-toutiaosousuo:before {
+  content: "\e611";
+}
+
+.heima-toutiaowenda:before {
+  content: "\e612";
+}
+
+.heima-toutiaozuopin:before {
+  content: "\e613";
+}
+
+.heima-toutiaozuojiantou:before {
+  content: "\e614";
+}
+
+.heima-toutiaoyuedu:before {
+  content: "\e615";
+}
+

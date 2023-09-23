@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <span class="heima heima-toutiaogengduo"></span>
   </div>
 </template>
 
@@ -7,9 +8,6 @@
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
 }
 </script>
 
